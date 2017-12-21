@@ -110,7 +110,7 @@ element
 
 body
 {
-    background: url('images/background2.jpg');
+    background: url('images/.jpg');
     font-family: 'Trebuchet MS', Arial, sans-serif;
     color: #181818;
 }
@@ -380,4 +380,8 @@ td, th /* Mettre une bordure sur les td ET les th */
 :required
 {
     background-color: red;
+}
+.photo
+{
+    height: 250px;
 }
